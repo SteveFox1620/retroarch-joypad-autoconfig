@@ -1,2 +1,0 @@
-SUBSYSTEM=="usb", ATTRS{idVendor}=="16d0", MODE="0666"
-
